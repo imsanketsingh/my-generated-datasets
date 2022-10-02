@@ -1,2 +1,2 @@
-# Detailed Description of Each Dataset and the Respective Code
+# Description of Each Dataset and the Respective Code
 
