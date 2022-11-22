@@ -47,7 +47,7 @@ There was a need of column arrangement to have a better look at the data. So I d
 ## Dataset 3: All_Planets_Dataset
 
 ### **Dataset Description:**
-This dataset contains information about a total of 822 Planets found till date in the our observable universe.
+This dataset contains information about a total of 822 Planets found till date in our observable universe.
 
 The total no. of columns are 9.
 
