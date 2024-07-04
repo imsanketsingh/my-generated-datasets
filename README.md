@@ -125,7 +125,4 @@ Contributions are always welcome!
 - [@imsanketsingh](https://github.com/imsanketsingh)
 
 
-## Feedback
-
-If you have any feedback, please reach out to me at imsanketsingh@gmail.com
 ### Thanks for reading♥!
